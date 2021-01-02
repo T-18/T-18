@@ -30,7 +30,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Informa
 <p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/coder.gif" alt="codergif" /> </p>
 
 ## Contact Me ☎️
-* Mail me on [Gmail](tiwaritamanna018@gmail.com)
+
 * Connect me on [LinkedIn](https://linkedin.com/in/tamanna-tiwari)
 * Follow me on  [Medium](https://t-18.medium.com)
 
