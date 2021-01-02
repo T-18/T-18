@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...   -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=Vrindagupta6828.Vrindagupta6828)
+![](https://visitor-badge.glitch.me/badge?page_id=T-18.T-18)
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
