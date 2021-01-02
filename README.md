@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/master/assest/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/hello.gif" alt="hello" /> </p>
 <h1 align="center">  👋, I'm Tamanna Tiwari </h1>
 <!--
 **T-18/T-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -27,7 +27,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Informa
 - 🌱 I’m currently learning various new technologies.
 - 💬 Ask me about anything, I am happy to help if i can or we can discover++; 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/vrindagupta6828/master/assest/coder.gif" alt="codergif" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/coder.gif" /> </p>
 
 ## Contact Me ☎️
 
