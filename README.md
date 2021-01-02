@@ -27,7 +27,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Informa
 - 🌱 I’m currently learning various new technologies.
 - 💬 Ask me about anything, I am happy to help if i can or we can discover++; 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/coder.gif" alt="coder.gif" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/coder.gif" alt="codergif" /> </p>
 
 ## Contact Me ☎️
 
