@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 ## Who Am I?
 
-I'm an Indian Undergraduate Student currently undertaking a Bachelors in Information Technology Engineering from KJ Institute of Engineering and Technology. I'm a Cloud Practitioner who loves to solve real-time problems along with other General-Purpose Languages like C and Java. I'm passionate about Machine learning, and Web Development with an active interest in writing blogs on websites like Medium and Blogspot. Basically just an Information technology undergraduate who loves to solve problems, seeking to leverage acquired academic knowledge and experience to solve real world problems. 
+I'm an Information technology undergraduate; Currently undertaking Bachelor's in Information Technology Engineering from KJ Institute of Engineering and Technology. I'm a Cloud Practitioner who loves to solve real-time problems along with other General-Purpose Languages like C and Java. I'm passionate about Web Development with an active interest in writing blogs on websites like Medium and Blogspot.
 
 - 🔭 I’m currently contributing to some open source.
 - 🌱 I’m currently learning various new technologies.
