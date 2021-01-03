@@ -25,14 +25,14 @@ I'm an Information technology undergraduate; Currently undertaking Bachelor's in
 
 - 🔭 I’m currently contributing to some open source.
 - 🌱 I’m currently learning various new technologies.
-- 💬 Ask me about anything, I am happy to help if i can or we can discover++; 
+- 💬 Ask me about anything, I will be happy to help if i can or we can discover++; 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/coder.gif" alt="codergif" /> </p>
 
 ## Contact Me ☎️
 
-* Connect me on [LinkedIn](https://linkedin.com/in/tamanna-tiwari)
-* Follow me on  [Medium](https://t-18.medium.com)
+* Connect with me on [LinkedIn](https://linkedin.com/in/tamanna-tiwari)
+* Read & Follow me on  [Medium](https://t-18.medium.com)
 
 Thankyou!! ✌️
 <br />
