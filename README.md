@@ -21,10 +21,9 @@ Here are some ideas to get you started: -->
 
 ## Who Am I?
 
-I'm an Information technology undergraduate; Currently undertaking Bachelor's in Information Technology Engineering from KJ Institute of Engineering and Technology. I'm a Cloud Practitioner who loves to solve real-time problems along with other General-Purpose Languages like C and Java. I'm passionate about Web Development with an active interest in writing blogs on websites like Medium and Blogspot.
+I'm an Information technology undergraduate; Currently undertaking Bachelor's in Information Technology Engineering from KJ Institute of Engineering and Technology - Vadodara. I'm a Security Enthusiast and Cloud Practitioner who loves to solve real-time problems along with other General-Purpose Languages like React, Python and Java. I'm passionate about Cyber Security with an active interest in writing blogs (Tech and Non-Tech as well). I like working on projects on domains with the skills acquired or can be acquired.
 
-- 🔭 I’m currently contributing to some open source.
-- 🌱 I’m currently learning various new technologies.
+- 🔭 I’m currently contributing to some open source and learning various new technologies.
 - 💬 Ask me about anything, I will be happy to help if i can or we can discover++; 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/T-18/T-18/main/coder.gif" alt="codergif" /> </p>
@@ -34,12 +33,10 @@ I'm an Information technology undergraduate; Currently undertaking Bachelor's in
 * Connect with me on [LinkedIn](https://linkedin.com/in/tamanna-tiwari)
 * Read & Follow me on  [Medium](https://t-18.medium.com)
 
-Thankyou!! ✌️
+See ya! 
 <br />
 <br />
 
 <p align="center">
 <a href="www.linkedin.com/in/tamanna-tiwari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="T-18" height="30" width="30" /></a>
-<a href="https://instagram.com/txnu._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="txnu._" height="30" width="30" /></a>
-</a>
 </p>
