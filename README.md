@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 ## Who Am I?
 
-I'm an Information technology undergraduate; Currently undertaking Bachelor's in Information Technology Engineering from KJ Institute of Engineering and Technology - Vadodara. I'm a Security Enthusiast and Cloud Practitioner who loves to solve real-time problems along with other General-Purpose Languages like React, Python and Java. I'm passionate about Cyber Security with an active interest in writing blogs (Tech and Non-Tech as well). I like working on projects on domains with the skills acquired or can be acquired.
+I'm an Information technology undergraduate; Currently undertaking Bachelor's in Information Technology Engineering from KJ Institute of Engineering and Technology - Vadodara. I'm a Security Researcher and Cloud Practitioner who loves to solve real-time problems along with other General-Purpose Languages like Python and Node.js. I'm passionate about Cyber Security with an active interest in Web Development. I like working on projects on domains with the skills acquired or can be acquired.
 
 - 🔭 I’m currently contributing to some open source and learning various new technologies.
 - 💬 Ask me about anything, I will be happy to help if i can or we can discover++; 
